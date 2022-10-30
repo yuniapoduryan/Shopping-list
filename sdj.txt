@@ -1,3 +1,0 @@
-:hover
-:active
-:before і :after
